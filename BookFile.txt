@@ -1,0 +1,1 @@
+(Book) : OOP ( ID = 123 )  Author = PaulDeitel
